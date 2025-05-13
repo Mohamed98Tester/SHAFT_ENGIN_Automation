@@ -1,0 +1,37 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                                                   Test Method: 'SearchActioTc.searchDealCode'                                                   
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Text cleared Using Native Clear @13-05-2025 10:29:45.0069 AM
+[ReportManager] Type "e.saady" into "Username *". @13-05-2025 10:29:45.0119 AM
+[ReportManager] Text cleared Using Native Clear @13-05-2025 10:29:45.0250 AM
+[ReportManager] Type "qqE6)Cxp6>B8" into "Password * Forgot Password?". @13-05-2025 10:29:45.0291 AM
+[ReportManager] Moved the mouse to the middle of the element. @13-05-2025 10:29:45.0496 AM
+[ReportManager] Click "Login". @13-05-2025 10:29:45.0556 AM
+[ReportManager] Moved the mouse to the middle of the element. @13-05-2025 10:29:46.0531 AM
+[ReportManager] Click "Master". @13-05-2025 10:29:46.0605 AM
+[ReportManager] Moved the mouse to the middle of the element. @13-05-2025 10:29:46.0972 AM
+[ReportManager] Click "By.xpath: (//a[@class='ng-star-inserted'])[1]". @13-05-2025 10:29:47.0046 AM
+[ReportManager] Moved the mouse to the middle of the element. @13-05-2025 10:29:47.0228 AM
+[ReportManager] Click "Deal Code". @13-05-2025 10:29:47.0322 AM
+[ReportManager] Moved the mouse to the middle of the element. @13-05-2025 10:29:47.0701 AM
+[ReportManager] Click "By.xpath: (//span[contains(@class, 'p-dropdown-label')])[1]". @13-05-2025 10:29:47.0765 AM
+[ReportManager] Moved the mouse to the middle of the element. @13-05-2025 10:29:48.0078 AM
+[ReportManager] Click "Relative Locator: {filters=[{args=[{xpath=(//span[contains(@class, 'p-dropdown-label')])[1]}], kind=below}], root={xpath=//*[contains(.,"Galileo")]}}". @13-05-2025 10:29:48.0185 AM
+[ReportManager] Moved the mouse to the middle of the element. @13-05-2025 10:29:48.0416 AM
+[ReportManager] Click "By.xpath: (//span[contains(@class,"p-dropdown-label")])[2]". @13-05-2025 10:29:48.0467 AM
+[ReportManager] Moved the mouse to the middle of the element. @13-05-2025 10:29:48.0734 AM
+[ReportManager] Click "Relative Locator: {filters=[{args=[{xpath=(//span[contains(@class,"p-dropdown-label")])[2]}], kind=below}], root={xpath=//*[contains(.,"Galileo Live UAE")]}}". @13-05-2025 10:29:48.0864 AM
+[ReportManager] Moved the mouse to the middle of the element. @13-05-2025 10:29:49.0035 AM
+[ReportManager] Click "By.xpath: (//div[contains(@class,"p-radiobutton-box")])[2]". @13-05-2025 10:29:49.0082 AM
+[ReportManager] Moved the mouse to the middle of the element. @13-05-2025 10:29:49.0247 AM
+[ReportManager] Click "Search". @13-05-2025 10:29:49.0303 AM
+[ReportManager] Moved the mouse to the middle of the element. @13-05-2025 10:29:49.0824 AM
+[ReportManager] Click "By.className: mg-end-10". @13-05-2025 10:29:49.0870 AM
+[ReportManager] Assert that the element located by "By.className: mg-end-10" is visible; hidden attribute is equal to "null". @13-05-2025 10:29:49.0911 AM
+[ReportManager] Expected "null", and actual "null" @13-05-2025 10:29:50.0308 AM
+[ReportManager] Successfully created attachment 'Screenshot - Assert_10-29-51-667_13052025' @13-05-2025 10:29:51.0672 AM
+[ReportManager] Expected "null", and actual "null" @13-05-2025 10:29:51.0673 AM
+[ReportManager] Assertion passed @13-05-2025 10:29:51.0675 AM

@@ -1,0 +1,217 @@
+[INFO ] 2025-05-13 10:29:33.185 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                                    Powered by [1mSHAFT v.8.2.20240624[22m                                                    
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2025-05-13 10:29:33.204 [] ReportManager - Checking for engine updates...
+[INFO ] 2025-05-13 10:29:33.230 [] ReportManager - Initializing Allure Reporting Environment...
+[INFO ] 2025-05-13 10:29:33.253 [] ReportManager - Initializing Summary Reporting Environment...
+[INFO ] 2025-05-13 10:29:33.255 [main] ReportManager - TestNG run detected...
+[INFO ] 2025-05-13 10:29:34.233 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                            Starting execution of setup browser configuration method                                            
+                                                          'SearchActioTc.SetupBrowser'                                                          
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2025-05-13 10:29:34.330 [main] ReportManager - Setting "targetOperatingSystem" property with "windows".
+[INFO ] 2025-05-13 10:29:34.568 [] ReportManager - Loaded OpenCV "opencv_java490".
+[INFO ] 2025-05-13 10:29:34.863 [main] ReportManager - Capabilities {acceptInsecureCerts: true, browserName: chrome, goog:chromeOptions: {args: [--remote-debugging-pipe, --no-sandbox, --start-maximized], extensions: [], prefs: {download.default_directory: C:\SHAFT ENGIN\SHAFT_NEW\ta..., download.prompt_for_download: false, profile.default_content_settings.popups: 0}}, pageLoadStrategy: normal, timeouts: {pageLoad: 60000, script: 60000}, unhandledPromptBehavior: ignore, webSocketUrl: true}
+[INFO ] 2025-05-13 10:29:34.864 [main] ReportManager - Attempting to run locally on: "Windows | Chrome".
+[INFO ] 2025-05-13 10:29:34.864 [main] ReportManager - Identifying OS/Driver combination. Please note that if a new browser/driver executable will be downloaded it may take some time depending on your connection...
+[INFO ] 2025-05-13 10:29:36.562 [] ReportManager - Initializing Project Structure...
+[INFO ] 2025-05-13 10:29:36.583 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                                    Powered by [1mSHAFT v.8.2.20240624[22m                                                    
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2025-05-13 10:29:36.605 [] ReportManager - Checking for engine updates...
+[INFO ] 2025-05-13 10:29:36.652 [] ReportManager - Initializing Allure Reporting Environment...
+[INFO ] 2025-05-13 10:29:36.656 [] ReportManager - Initializing Summary Reporting Environment...
+[INFO ] 2025-05-13 10:29:36.673 [main] ReportManager - TestNG run detected...
+[INFO ] 2025-05-13 10:29:37.251 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                            Starting execution of setup browser configuration method                                            
+                                                          'SearchActioTc.SetupBrowser'                                                          
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2025-05-13 10:29:37.317 [main] ReportManager - Setting "targetOperatingSystem" property with "windows".
+[INFO ] 2025-05-13 10:29:37.865 [main] ReportManager - Capabilities {acceptInsecureCerts: true, browserName: chrome, goog:chromeOptions: {args: [--remote-debugging-pipe, --no-sandbox, --start-maximized], extensions: [], prefs: {download.default_directory: C:\SHAFT ENGIN\SHAFT_NEW\ta..., download.prompt_for_download: false, profile.default_content_settings.popups: 0}}, pageLoadStrategy: normal, timeouts: {pageLoad: 60000, script: 60000}, unhandledPromptBehavior: ignore, webSocketUrl: true}
+[INFO ] 2025-05-13 10:29:37.866 [main] ReportManager - Attempting to run locally on: "Windows | Chrome".
+[INFO ] 2025-05-13 10:29:37.867 [main] ReportManager - Identifying OS/Driver combination. Please note that if a new browser/driver executable will be downloaded it may take some time depending on your connection...
+[INFO ] 2025-05-13 10:29:38.131 [] ReportManager - Loaded OpenCV "opencv_java490".
+[INFO ] 2025-05-13 10:29:38.595 [] ReportManager - Engine Update check done for the day. 👍
+[WARN ] 2025-05-13 10:29:40.750 [main] ReportManager - May 13, 2025 10:29:40 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+[WARN ] 2025-05-13 10:29:40.751 [main] ReportManager - WARNING: Unable to find CDP implementation matching 136
+[WARN ] 2025-05-13 10:29:40.751 [main] ReportManager - May 13, 2025 10:29:40 AM org.openqa.selenium.chromium.ChromiumDriver lambda$new$5
+[WARN ] 2025-05-13 10:29:40.751 [main] ReportManager - WARNING: Unable to find version of CDP to use for 136.0.7103.93. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.22.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+[INFO ] 2025-05-13 10:29:40.756 [main] ReportManager - Successfully Opened: "Windows | Chrome".
+[INFO ] 2025-05-13 10:29:40.796 [main] ReportManager - Loaded Test Data: "src/test/resources/testDataFiles/test.json".
+[INFO ] 2025-05-13 10:29:40.804 [main] ReportManager - Successfully created attachment 'Test Data - JSON'
+[INFO ] 2025-05-13 10:29:40.854 [main] ReportManager - Target URL: "http://192.168.1.33/auth/login"
+[INFO ] 2025-05-13 10:29:41.244 [main] ReportManager - Initial URL: "about:blank"
+[WARN ] 2025-05-13 10:29:42.446 [main] ReportManager - May 13, 2025 10:29:42 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+[WARN ] 2025-05-13 10:29:42.446 [main] ReportManager - WARNING: Unable to find CDP implementation matching 136
+[WARN ] 2025-05-13 10:29:42.448 [main] ReportManager - May 13, 2025 10:29:42 AM org.openqa.selenium.chromium.ChromiumDriver lambda$new$5
+[WARN ] 2025-05-13 10:29:42.448 [main] ReportManager - WARNING: Unable to find version of CDP to use for 136.0.7103.93. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.22.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+[INFO ] 2025-05-13 10:29:42.456 [main] ReportManager - Successfully Opened: "Windows | Chrome".
+[INFO ] 2025-05-13 10:29:42.496 [main] ReportManager - Loaded Test Data: "src/test/resources/testDataFiles/test.json".
+[INFO ] 2025-05-13 10:29:42.505 [main] ReportManager - Successfully created attachment 'Test Data - JSON'
+[INFO ] 2025-05-13 10:29:42.564 [main] ReportManager - Navigate to url "http://192.168.1.33/auth/login".
+[INFO ] 2025-05-13 10:29:42.572 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: SetupBrowser'
+[INFO ] 2025-05-13 10:29:42.599 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                             Starting execution of suite setup configuration method                                             
+                                          'com.shaft.listeners.internal.ConfigurationHelper.suiteSetup'                                          
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2025-05-13 10:29:42.603 [main] ReportManager - Initializing Important Links...
+[INFO ] 2025-05-13 10:29:42.609 [main] ReportManager - Initializing Properties...
+[INFO ] 2025-05-13 10:29:42.717 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                                                   Test Method: 'SearchActioTc.searchDealCode'                                                   
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[DEBUG] 2025-05-13 10:29:42.961 [main] ReportManager - Text cleared Using Native Clear
+[INFO ] 2025-05-13 10:29:43.039 [main] ReportManager - Type "e.saady" into "Username *".
+[DEBUG] 2025-05-13 10:29:43.202 [main] ReportManager - Text cleared Using Native Clear
+[INFO ] 2025-05-13 10:29:43.250 [main] ReportManager - Type "qqE6)Cxp6>B8" into "Password * Forgot Password?".
+[INFO ] 2025-05-13 10:29:43.455 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-13 10:29:43.526 [main] ReportManager - Click "Login".
+[INFO ] 2025-05-13 10:29:43.606 [] ReportManager - Engine Update check done for the day. 👍
+[INFO ] 2025-05-13 10:29:43.608 [main] ReportManager - Target URL: "http://192.168.1.33/auth/login"
+[INFO ] 2025-05-13 10:29:43.644 [main] ReportManager - Initial URL: "about:blank"
+[WARN ] 2025-05-13 10:29:43.687 [main] ReportManager - May 13, 2025 10:29:43 AM org.openqa.selenium.bidi.Connection send
+[WARN ] 2025-05-13 10:29:43.687 [main] ReportManager - INFO: -> {
+[WARN ] 2025-05-13 10:29:43.687 [main] ReportManager -   "params": {
+[WARN ] 2025-05-13 10:29:43.687 [main] ReportManager -     "context": "A5154EA325CD4F1F91ED3DBD716E6906",
+[WARN ] 2025-05-13 10:29:43.687 [main] ReportManager -     "url": "http:\u002f\u002f192.168.1.33\u002fauth\u002flogin",
+[WARN ] 2025-05-13 10:29:43.687 [main] ReportManager -     "wait": "complete"
+[WARN ] 2025-05-13 10:29:43.687 [main] ReportManager -   },
+[WARN ] 2025-05-13 10:29:43.687 [main] ReportManager -   "method": "browsingContext.navigate",
+[WARN ] 2025-05-13 10:29:43.687 [main] ReportManager -   "id": 1
+[WARN ] 2025-05-13 10:29:43.687 [main] ReportManager - }
+[WARN ] 2025-05-13 10:29:44.387 [BiDi Connection] ReportManager - May 13, 2025 10:29:44 AM org.openqa.selenium.bidi.Connection handle
+[WARN ] 2025-05-13 10:29:44.387 [BiDi Connection] ReportManager - INFO: <- {"id":1,"result":{"navigation":"37d60da0-c3fb-4956-8faf-c6281e398a0b","url":"http://192.168.1.33/auth/login"},"type":"success"}
+[INFO ] 2025-05-13 10:29:44.393 [main] ReportManager - Navigate to url "http://192.168.1.33/auth/login".
+[INFO ] 2025-05-13 10:29:44.409 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: SetupBrowser'
+[INFO ] 2025-05-13 10:29:44.451 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                             Starting execution of suite setup configuration method                                             
+                                          'com.shaft.listeners.internal.ConfigurationHelper.suiteSetup'                                          
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2025-05-13 10:29:44.454 [main] ReportManager - Initializing Important Links...
+[INFO ] 2025-05-13 10:29:44.463 [main] ReportManager - Initializing Properties...
+[INFO ] 2025-05-13 10:29:44.479 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-13 10:29:44.542 [main] ReportManager - Click "Master".
+[INFO ] 2025-05-13 10:29:44.611 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                                                   Test Method: 'SearchActioTc.searchDealCode'                                                   
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[DEBUG] 2025-05-13 10:29:45.069 [main] ReportManager - Text cleared Using Native Clear
+[INFO ] 2025-05-13 10:29:45.119 [main] ReportManager - Type "e.saady" into "Username *".
+[INFO ] 2025-05-13 10:29:45.135 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-13 10:29:45.198 [main] ReportManager - Click "By.xpath: (//a[@class='ng-star-inserted'])[1]".
+[DEBUG] 2025-05-13 10:29:45.250 [main] ReportManager - Text cleared Using Native Clear
+[INFO ] 2025-05-13 10:29:45.291 [main] ReportManager - Type "qqE6)Cxp6>B8" into "Password * Forgot Password?".
+[INFO ] 2025-05-13 10:29:45.369 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-13 10:29:45.433 [main] ReportManager - Click "Deal Code".
+[INFO ] 2025-05-13 10:29:45.496 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-13 10:29:45.556 [main] ReportManager - Click "Login".
+[INFO ] 2025-05-13 10:29:45.765 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-13 10:29:45.878 [main] ReportManager - Click "By.xpath: (//span[contains(@class, 'p-dropdown-label')])[1]".
+[INFO ] 2025-05-13 10:29:46.157 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-13 10:29:46.216 [main] ReportManager - Click "Relative Locator: {root={xpath=//*[contains(.,"Galileo")]}, filters=[{kind=below, args=[{xpath=(//span[contains(@class, 'p-dropdown-label')])[1]}]}]}".
+[INFO ] 2025-05-13 10:29:46.423 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-13 10:29:46.472 [main] ReportManager - Click "By.xpath: (//span[contains(@class,"p-dropdown-label")])[2]".
+[INFO ] 2025-05-13 10:29:46.531 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-13 10:29:46.605 [main] ReportManager - Click "Master".
+[INFO ] 2025-05-13 10:29:46.706 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-13 10:29:46.822 [main] ReportManager - Click "Relative Locator: {root={xpath=//*[contains(.,"Galileo Live UAE")]}, filters=[{kind=below, args=[{xpath=(//span[contains(@class,"p-dropdown-label")])[2]}]}]}".
+[INFO ] 2025-05-13 10:29:46.972 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-13 10:29:46.987 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-13 10:29:47.043 [main] ReportManager - Click "By.xpath: (//div[contains(@class,"p-radiobutton-box")])[2]".
+[INFO ] 2025-05-13 10:29:47.046 [main] ReportManager - Click "By.xpath: (//a[@class='ng-star-inserted'])[1]".
+[INFO ] 2025-05-13 10:29:47.206 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-13 10:29:47.229 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-13 10:29:47.301 [main] ReportManager - Click "Search".
+[INFO ] 2025-05-13 10:29:47.322 [main] ReportManager - Click "Deal Code".
+[INFO ] 2025-05-13 10:29:47.701 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-13 10:29:47.765 [main] ReportManager - Click "By.xpath: (//span[contains(@class, 'p-dropdown-label')])[1]".
+[INFO ] 2025-05-13 10:29:47.876 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-13 10:29:47.922 [main] ReportManager - Click "By.className: mg-end-10".
+[INFO ] 2025-05-13 10:29:47.941 [main] ReportManager - Assert that the element located by "By.className: mg-end-10" is visible; hidden attribute is equal to "null".
+[INFO ] 2025-05-13 10:29:48.078 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-13 10:29:48.185 [main] ReportManager - Click "Relative Locator: {filters=[{args=[{xpath=(//span[contains(@class, 'p-dropdown-label')])[1]}], kind=below}], root={xpath=//*[contains(.,"Galileo")]}}".
+[DEBUG] 2025-05-13 10:29:48.186 [main] ReportManager - Expected "null", and actual "null"
+[INFO ] 2025-05-13 10:29:48.416 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-13 10:29:48.467 [main] ReportManager - Click "By.xpath: (//span[contains(@class,"p-dropdown-label")])[2]".
+[INFO ] 2025-05-13 10:29:48.734 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-13 10:29:48.864 [main] ReportManager - Click "Relative Locator: {filters=[{args=[{xpath=(//span[contains(@class,"p-dropdown-label")])[2]}], kind=below}], root={xpath=//*[contains(.,"Galileo Live UAE")]}}".
+[INFO ] 2025-05-13 10:29:49.035 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-13 10:29:49.082 [main] ReportManager - Click "By.xpath: (//div[contains(@class,"p-radiobutton-box")])[2]".
+[INFO ] 2025-05-13 10:29:49.247 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-13 10:29:49.303 [main] ReportManager - Click "Search".
+[INFO ] 2025-05-13 10:29:49.399 [main] ReportManager - Successfully created attachment 'Screenshot - Assert_10-29-49-396_13052025'
+[INFO ] 2025-05-13 10:29:49.399 [main] ReportManager - Expected "null", and actual "null"
+[INFO ] 2025-05-13 10:29:49.399 [main] ReportManager - Assertion passed
+[INFO ] 2025-05-13 10:29:49.407 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: searchDealCode'
+[INFO ] 2025-05-13 10:29:49.407 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Finished Execution of Test Method: 'SearchActioTc.searchDealCode'                                        
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2025-05-13 10:29:49.505 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                           Starting execution of engine tear down configuration method                                           
+                                        'com.shaft.listeners.internal.ConfigurationHelper.engineTearDown'                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2025-05-13 10:29:49.506 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Execution log'
+[INFO ] 2025-05-13 10:29:49.512 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Execution log: 20250513-102949'
+[INFO ] 2025-05-13 10:29:49.516 [main] ReportManager - Successfully created attachment 'HTML - Checkpoints Report'
+[INFO ] 2025-05-13 10:29:49.518 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: engineTearDown'
+[INFO ] 2025-05-13 10:29:49.541 [main] ReportManager - ===============================================
+[INFO ] 2025-05-13 10:29:49.542 [main] ReportManager - Default Suite
+[INFO ] 2025-05-13 10:29:49.542 [main] ReportManager - Total tests run: 1, Passes: 1, Failures: 0, Skips: 0
+[INFO ] 2025-05-13 10:29:49.542 [main] ReportManager - ===============================================
+[INFO ] 2025-05-13 10:29:49.544 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                           This test run was powered by [1mSHAFT v.8.2.20240624[22m                                           
+                               SHAFT [1;4mis and will always be 100% FREE[22;24m for commercial and private use                               
+                                                   in compliance with the [1mMIT license[22m                                                   
+                                   Visit SHAFT's user guide [4mhttps://shafthq.github.io/[24m to learn more                                   
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2025-05-13 10:29:49.549 [] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                                         Test Execution Summary Results                                                         
+                                              Total Cases: 1 --> Passed: 1 | Failed: 0 | Skipped: 0                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2025-05-13 10:29:49.549 [main] ReportManager - Executing: "C:\Users\qc\.m2\repository\allure\allure-2.27.0/bin/allure.bat generate --single-file --clean 'allure-results' -o 'C:\SHAFT ENGIN\SHAFT_NEW\target\allure-report'" locally.
+[INFO ] 2025-05-13 10:29:49.824 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-13 10:29:49.870 [main] ReportManager - Click "By.className: mg-end-10".
+[INFO ] 2025-05-13 10:29:49.911 [main] ReportManager - Assert that the element located by "By.className: mg-end-10" is visible; hidden attribute is equal to "null".
+[DEBUG] 2025-05-13 10:29:50.308 [main] ReportManager - Expected "null", and actual "null"
+[INFO ] 2025-05-13 10:29:51.672 [main] ReportManager - Successfully created attachment 'Screenshot - Assert_10-29-51-667_13052025'
+[INFO ] 2025-05-13 10:29:51.673 [main] ReportManager - Expected "null", and actual "null"
+[INFO ] 2025-05-13 10:29:51.675 [main] ReportManager - Assertion passed
+[INFO ] 2025-05-13 10:29:51.687 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: searchDealCode'
+[INFO ] 2025-05-13 10:29:51.688 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Finished Execution of Test Method: 'SearchActioTc.searchDealCode'                                        
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2025-05-13 10:29:51.923 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                           Starting execution of engine tear down configuration method                                           
+                                        'com.shaft.listeners.internal.ConfigurationHelper.engineTearDown'                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2025-05-13 10:29:51.926 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Execution log'
