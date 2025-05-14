@@ -18,7 +18,7 @@
   </parameter>
   <parameter>
     <key>sun.java.command</key>
-    <value>com.intellij.rt.testng.RemoteTestNGStarter -usedefaultlisteners false -socket60754 @w@C:\Users\qc\AppData\Local\Temp\idea_working_dirs_testng1.tmp -temp C:\Users\qc\AppData\Local\Temp\idea_testng1.tmp</value>
+    <value>com.intellij.rt.testng.RemoteTestNGStarter -usedefaultlisteners false -socket58777 @w@C:\Users\qc\AppData\Local\Temp\idea_working_dirs_testng.tmp -temp C:\Users\qc\AppData\Local\Temp\idea_testng.tmp</value>
   </parameter>
   <parameter>
     <key>jdk.debug</key>
@@ -57,6 +57,10 @@
     <value>C:\Users\qc\AppData\Local\Temp\</value>
   </parameter>
   <parameter>
+    <key>screenshotParams_takeScreenshotWhenValidationFails</key>
+    <value>Always</value>
+  </parameter>
+  <parameter>
     <key>java.version</key>
     <value>23.0.2</value>
   </parameter>
@@ -70,7 +74,7 @@
   </parameter>
   <parameter>
     <key>java.library.path</key>
-    <value>C:\Program Files\Java\jdk-23\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Eclipse Adoptium\jdk-8.0.452.9-hotspot\bin;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\qc\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2025.1\bin;;C:\Users\qc\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk-23\bin;;.</value>
+    <value>C:\Program Files\Java\jdk-23\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Eclipse Adoptium\jdk-8.0.452.9-hotspot\bin;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\qc\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2025.1\bin;;C:\Users\qc\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk-23\bin;;.</value>
   </parameter>
   <parameter>
     <key>CUCUMBER_PUBLISH_ENABLED</key>
@@ -83,6 +87,10 @@
   <parameter>
     <key>cucumber.features</key>
     <value>src/test/resources</value>
+  </parameter>
+  <parameter>
+    <key>screenshotParams_whenToTakeAScreenshot</key>
+    <value>true</value>
   </parameter>
   <parameter>
     <key>user.timezone</key>

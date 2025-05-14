@@ -1,5 +1,6 @@
 package Master;
 import com.shaft.driver.SHAFT;
+import com.shaft.validation.internal.ValidationsExecutor;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 
@@ -21,7 +22,7 @@ public class SearchAction {
     public final By exportToExel = By.className("mg-end-10");
     public final By grid = By.xpath(" /html/body/ndc-root/ndc-layout/div/div[2]/div[1]/div/ndc-deal-code/div/tilde-data-table/div/div/div/div/div[2]");
     public  final By dealcode=By.xpath("//*[@id=\"pr_id_11-table\"]/tbody/tr[1]/td[2]");
-
+    private final  By table =By.xpath("//table//tr/td[5]");
         //TODO: write deal Code
         public SearchAction writeDealCode   (String dealCode ){
             driver.element().type(dealCodeLabel,dealCode);
@@ -67,6 +68,42 @@ public class SearchAction {
             driver.element().click(exportToExel);
             return this;
     }
+
+
+     /*  public SearchAction  List<WebElement> approvalStatusCell = driver.getDriver().findElements(By.xpath("//table//tr/td[5]"));
+        for (WebElement cell : approvalStatusCell ) {
+            String statusText  = cell.getText().trim();
+      SHAFT.Validations.assertThat()
+                .object(statusText)
+                .isEqualTo("Approved").perform();
+    }}
+
+      */
+
+   
+
+public List<WebElement> approvalStatusCell (){
+    driver.getDriver().findElements(table);
+    return driver.getDriver().findElements(By.xpath("//table//tr/td[5]"));
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*
     public String chcekapprove(String app,String desed) {
 

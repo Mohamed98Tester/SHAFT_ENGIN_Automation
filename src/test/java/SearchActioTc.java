@@ -2,8 +2,10 @@
 import Master.*;
 import com.shaft.driver.SHAFT;
 import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
 import org.testng.annotations.Test;
 
+import java.util.List;
 
 
 public class SearchActioTc extends logintest {
@@ -31,7 +33,32 @@ public class SearchActioTc extends logintest {
         search.clicksupplier().clickONsupplierCredential().choseactive().clickONSearch()
                 .clickOnExportExcel();
 
-        driver.element().assertThat(exportToExel).isVisible().perform();
+       // driver.element().assertThat(exportToExel).isVisible().perform();
+
+        List<WebElement> approvalStatusCell = search.approvalStatusCell();
+
+        System.out.println("Size: " + approvalStatusCell.size());
+
+        for (WebElement cell : approvalStatusCell ) {
+            String statusText  = cell.getText().trim();
+            SHAFT.Validations.assertThat()
+                    .object(statusText)
+                    .isEqualTo("Approved").perform();
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*
         String des = search.chcekapprove("Approved","TOF23");
         System.out.println(des);
