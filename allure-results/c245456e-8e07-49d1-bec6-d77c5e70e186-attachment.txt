@@ -1,0 +1,57 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                                                   Test Method: 'SearchActioTc.searchDealCode'                                                   
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Text cleared Using Native Clear @18-05-2025 14:26:38.0912 PM
+[ReportManager] Type "e.saady" into "Username *". @18-05-2025 14:26:38.0961 PM
+[ReportManager] Text cleared Using Native Clear @18-05-2025 14:26:39.0061 PM
+[ReportManager] Type "qqE6)Cxp6>B8" into "Password * Forgot Password?". @18-05-2025 14:26:39.0096 PM
+[ReportManager] Moved the mouse to the middle of the element. @18-05-2025 14:26:39.0261 PM
+[ReportManager] Click "Login". @18-05-2025 14:26:39.0317 PM
+[ReportManager] Moved the mouse to the middle of the element. @18-05-2025 14:26:40.0244 PM
+[ReportManager] Click "Master". @18-05-2025 14:26:40.0294 PM
+[ReportManager] Moved the mouse to the middle of the element. @18-05-2025 14:26:40.0608 PM
+[ReportManager] Click "By.xpath: (//a[@class='ng-star-inserted'])[1]". @18-05-2025 14:26:40.0676 PM
+[ReportManager] Moved the mouse to the middle of the element. @18-05-2025 14:26:40.0841 PM
+[ReportManager] Click "Deal Code". @18-05-2025 14:26:40.0947 PM
+[ReportManager] Moved the mouse to the middle of the element. @18-05-2025 14:26:41.0264 PM
+[ReportManager] Click "By.xpath: (//span[contains(@class, 'p-dropdown-label')])[1]". @18-05-2025 14:26:41.0320 PM
+[ReportManager] Moved the mouse to the middle of the element. @18-05-2025 14:26:41.0597 PM
+[ReportManager] Click "Relative Locator: {root={xpath=//*[contains(.,"Galileo")]}, filters=[{args=[{xpath=(//span[contains(@class, 'p-dropdown-label')])[1]}], kind=below}]}". @18-05-2025 14:26:41.0667 PM
+[ReportManager] Moved the mouse to the middle of the element. @18-05-2025 14:26:41.0844 PM
+[ReportManager] Click "By.xpath: (//span[contains(@class,"p-dropdown-label")])[2]". @18-05-2025 14:26:41.0883 PM
+[ReportManager] Moved the mouse to the middle of the element. @18-05-2025 14:26:42.0111 PM
+[ReportManager] Click "Relative Locator: {root={xpath=//*[contains(.,"Galileo Live UAE")]}, filters=[{args=[{xpath=(//span[contains(@class,"p-dropdown-label")])[2]}], kind=below}]}". @18-05-2025 14:26:42.0157 PM
+[ReportManager] Moved the mouse to the middle of the element. @18-05-2025 14:26:42.0314 PM
+[ReportManager] Click "By.xpath: (//div[contains(@class,"p-radiobutton-box")])[2]". @18-05-2025 14:26:42.0359 PM
+[ReportManager] Moved the mouse to the middle of the element. @18-05-2025 14:26:42.0532 PM
+[ReportManager] Click "Search". @18-05-2025 14:26:42.0581 PM
+[ReportManager] Moved the mouse to the middle of the element. @18-05-2025 14:26:43.0064 PM
+[ReportManager] Click "By.className: mg-end-10". @18-05-2025 14:26:43.0111 PM
+[ReportManager] Get Text from "Approved", text is "Approved". @18-05-2025 14:26:44.0054 PM
+[ReportManager] Assert that "Approved" is equal to "Approved". @18-05-2025 14:26:44.0068 PM
+[ReportManager] Expected "Approved", and actual "Approved" @18-05-2025 14:26:44.0083 PM
+[ReportManager] Expected "Approved", and actual "Approved" @18-05-2025 14:26:44.0087 PM
+[ReportManager] Assertion passed @18-05-2025 14:26:44.0087 PM
+[ReportManager] Get Text from "Approved", text is "Approved". @18-05-2025 14:26:44.0098 PM
+[ReportManager] Assert that "Approved" is equal to "Approved". @18-05-2025 14:26:44.0099 PM
+[ReportManager] Expected "Approved", and actual "Approved" @18-05-2025 14:26:44.0100 PM
+[ReportManager] Expected "Approved", and actual "Approved" @18-05-2025 14:26:44.0100 PM
+[ReportManager] Assertion passed @18-05-2025 14:26:44.0101 PM
+[ReportManager] Get Text from "Approved", text is "Approved". @18-05-2025 14:26:44.0113 PM
+[ReportManager] Assert that "Approved" is equal to "Approved". @18-05-2025 14:26:44.0114 PM
+[ReportManager] Expected "Approved", and actual "Approved" @18-05-2025 14:26:44.0115 PM
+[ReportManager] Expected "Approved", and actual "Approved" @18-05-2025 14:26:44.0115 PM
+[ReportManager] Assertion passed @18-05-2025 14:26:44.0115 PM
+[ReportManager] Get Text from "Approved", text is "Approved". @18-05-2025 14:26:44.0126 PM
+[ReportManager] Assert that "Approved" is equal to "Approved". @18-05-2025 14:26:44.0127 PM
+[ReportManager] Expected "Approved", and actual "Approved" @18-05-2025 14:26:44.0129 PM
+[ReportManager] Expected "Approved", and actual "Approved" @18-05-2025 14:26:44.0129 PM
+[ReportManager] Assertion passed @18-05-2025 14:26:44.0129 PM
+[ReportManager] Get Text from "Approved", text is "Approved". @18-05-2025 14:26:44.0140 PM
+[ReportManager] Assert that "Approved" is equal to "Approved". @18-05-2025 14:26:44.0141 PM
+[ReportManager] Expected "Approved", and actual "Approved" @18-05-2025 14:26:44.0141 PM
+[ReportManager] Expected "Approved", and actual "Approved" @18-05-2025 14:26:44.0142 PM
+[ReportManager] Assertion passed @18-05-2025 14:26:44.0142 PM

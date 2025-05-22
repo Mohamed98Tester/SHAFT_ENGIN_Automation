@@ -1,0 +1,10 @@
+[ReportManager] Setting "targetOperatingSystem" property with "windows". @18-05-2025 14:26:34.0815 PM
+[ReportManager] Capabilities {acceptInsecureCerts: true, browserName: chrome, goog:chromeOptions: {args: [--remote-debugging-pipe, --no-sandbox, --start-maximized], extensions: [], prefs: {download.default_directory: C:\SHAFT ENGIN\SHAFT_NEW\ta..., download.prompt_for_download: false, profile.default_content_settings.popups: 0}}, pageLoadStrategy: normal, timeouts: {pageLoad: 60000, script: 60000}, unhandledPromptBehavior: ignore, webSocketUrl: true} @18-05-2025 14:26:35.0340 PM
+[ReportManager] Attempting to run locally on: "Windows | Chrome". @18-05-2025 14:26:35.0341 PM
+[ReportManager] Identifying OS/Driver combination. Please note that if a new browser/driver executable will be downloaded it may take some time depending on your connection... @18-05-2025 14:26:35.0342 PM
+[ReportManager] Successfully Opened: "Windows | Chrome". @18-05-2025 14:26:37.0491 PM
+[ReportManager] Loaded Test Data: "src/test/resources/testDataFiles/test.json". @18-05-2025 14:26:37.0515 PM
+[ReportManager] Successfully created attachment 'Test Data - JSON' @18-05-2025 14:26:37.0521 PM
+[ReportManager] Target URL: "http://192.168.1.33/auth/login" @18-05-2025 14:26:37.0952 PM
+[ReportManager] Initial URL: "about:blank" @18-05-2025 14:26:37.0975 PM
+[ReportManager] Navigate to url "http://192.168.1.33/auth/login". @18-05-2025 14:26:38.0662 PM

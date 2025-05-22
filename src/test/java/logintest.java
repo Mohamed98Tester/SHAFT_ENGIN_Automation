@@ -20,12 +20,16 @@ public class logintest {
 
     @BeforeSuite
     public void SetupBrowser (){
-
+        //TODO :  initializing Chrome
         driver = new SHAFT.GUI.WebDriver(DriverFactory.DriverType.CHROME);
-
+        //TODO : initializing test data
         testData = new SHAFT.TestData.JSON("src/test/resources/testDataFiles/test.json");
 
         driver.browser().navigateToURL(testData.getTestData("url"));
+        //TODO : Login
+        P0_login.EnterUsername(testData.getTestData("userNamed"))
+                .EnterPassw0rd(testData.getTestData("password"))
+                .ClickLoginButton();
 
         P0_login=new P0_Login(driver);
         mas=new Master(driver);
@@ -33,6 +37,7 @@ public class logintest {
 
 
     }
+
 /*
     @AfterTest
     public void CloseBrowser(){
@@ -40,5 +45,9 @@ public class logintest {
     }
 
  */
+
+
+
+
 
 }
